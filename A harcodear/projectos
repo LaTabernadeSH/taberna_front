@@ -1,0 +1,13 @@
+objeto_projecto= {
+    id: 1,
+    titulo: "pokemon",
+    techs: [],
+    descripcion: "corta",
+    fotos: [],
+    video: "url youtube",    
+    favorito: Boolean,
+    valoracion: ["puntajes otorgados"],
+    puntuacion: "numero promedio de las valoraciones",
+    comentarios: ["muy lindo"]
+
+}

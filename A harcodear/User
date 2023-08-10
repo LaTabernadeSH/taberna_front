@@ -1,0 +1,16 @@
+objeto_user= {
+    id:1,
+    name: Jonny,
+    contacto:{
+        linkedin:"",
+        github:"",
+        correo:"",
+        twitter:"",
+        telefono:"",
+        whatsapp:"",
+        },    
+    projectos: [{id_project_pokemon}, ],
+    favoritos: ["proyectos"],
+    puntuaciones_otorgadas: [{id_proyecto, puntuaccion}],
+    comentarios_otorgados: [{id_proyecto, comentario}]
+}
