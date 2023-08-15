@@ -1,0 +1,48 @@
+/* ProjectForm.module.css */
+
+.formulario {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #e1e1e1;
+  border-radius: 8px;
+  background-color: #070707;
+}
+
+.formulario div {
+  margin-bottom: 20px;
+}
+
+.formulario label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.formulario input[type="text"],
+.formulario textarea,
+.formulario input[type="url"],
+.formulario input[type="number"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #e1e1e1;
+  border-radius: 4px;
+}
+
+.formulario input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.formulario button {
+  padding: 10px 20px;
+  background-color: #0070f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.formulario button:hover {
+  background-color: #0050b3;
+}

@@ -1,0 +1,27 @@
+/* components/Nav.module.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background-color: #ddd5d5;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.link:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.home {
+  background-color: #ff4500;
+}
+
+.create {
+  background-color: #0070f3;
+}
