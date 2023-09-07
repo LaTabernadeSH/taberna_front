@@ -1,5 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
+import Carrusel from '../Componentes/carrusel/Carrusel'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
@@ -12,9 +13,11 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+      <div className="">
+        <Carrusel />
+      </div>
+      <br />
+        
 
         <p className={styles.description}>
           Get started by editing{' '}
