@@ -6,6 +6,9 @@ export default function Home() {
       <Carrusel />
       </div>
       <br />
+      <h1>
+        Home!!!
+      </h1>
 
       
       <div className="mb-5 flex flex-wrap justify-center items-center content-center">

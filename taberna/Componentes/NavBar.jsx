@@ -7,7 +7,7 @@ function NavBar() {
   return (
     <div className={styles.navbar}>
       <Link href="/">
-        <p className={`${styles.link} ${styles.home}`}>Home</p>
+        <p className={`${styles.link} ${styles.home}`}>HOME</p>
       </Link>
       <Link href="/create">
         <p className={`${styles.link} ${styles.create}`}>Create</p>
