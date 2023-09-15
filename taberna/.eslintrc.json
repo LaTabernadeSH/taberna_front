@@ -1,3 +1,10 @@
 {
-  "extends":  ["next/babel","next/core-web-vitals"]
+  "extends": [
+    "next",
+    "next/babel",
+    "next/core-web-vitals"
+  ],
+  "rules": {
+    // Your ESLint rules here
+  }
 }

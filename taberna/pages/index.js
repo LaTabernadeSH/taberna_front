@@ -15,14 +15,15 @@ export default function Home() {
 
       <main className={styles.main}>
         <div>
+        <div>
           <Home />  
         </div>
 
 
-      <div className="">
-        <Carrusel />
-      </div>
-      <br />
+        <div className="">
+          <Carrusel />
+        </div>
+        <br />
         
 
         <p className={styles.description}>
