@@ -9,12 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
     "babelrc": "^0.0.7",
     "formik": "^2.4.3",
     "next": "13.4.16",
-    "react": "18.2.0",
+    "react": "^18.2.0",
     "react-dom": "18.2.0",
     "react-slick": "^0.29.0",
+    "react-snap-carousel": "^0.3.2",
+    "redux": "^4.2.1",
     "yup": "^1.2.0"
   },
   "devDependencies": {
