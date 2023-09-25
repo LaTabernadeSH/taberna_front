@@ -25,13 +25,6 @@ const Home = () => {
         <br />
         
 
-        <p className={styles.description}>
-          Get  by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        
-
           <a href="https://nextjs.org/learn" className={styles.card}>
             <h2>Learn &rarr;</h2>
             <p>Learn about Next.js in an interactive course with quizzes!</p>
