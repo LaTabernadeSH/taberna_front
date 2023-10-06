@@ -45,7 +45,9 @@ const Home = () => {
       </main>
 
       <footer className={styles.footer}>
-        
+        <h2>
+          All rights reserved to Henry Tabern Team
+        </h2>
       </footer>
     </div>
   )
